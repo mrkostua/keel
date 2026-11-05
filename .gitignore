@@ -1,0 +1,18 @@
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+local.properties
+.kotlin/
+*.iml
+.idea/
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Xcode
+iosApp/build/
+iosApp/Pods/
+xcuserdata/
+*.xcworkspace/xcuserdata/
+DerivedData/
